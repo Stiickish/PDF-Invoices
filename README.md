@@ -1,2 +1,2 @@
 # PDF-Invoices
-A simple Python script, that reads Excel invoices and converts them to PDF files
+A simple Python script, that reads invoice records from Excel files and converts them to PDF files
